@@ -24,6 +24,7 @@
             android:background="@drawable/round_button"
             android:backgroundTint="@color/white"
             android:hint="Type a message"
+            android:textColor="@color/black"
             android:padding="10dp"
             android:singleLine="true"/>
         
